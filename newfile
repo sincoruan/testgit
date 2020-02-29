@@ -6,4 +6,4 @@ remote change2
 ----
 local change3
 ------
-remote change3 test remote change testlocal
+remote change3 test remote testlocal
